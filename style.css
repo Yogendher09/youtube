@@ -209,6 +209,7 @@ aside{
     
 }
 #Video-1{
+    width:99%;
 display: flex;
 justify-content: space-around;
 }
